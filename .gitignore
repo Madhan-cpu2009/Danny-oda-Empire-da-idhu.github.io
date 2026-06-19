@@ -1,0 +1,4 @@
+# Ignore common editor and OS files
+.vscode/
+Thumbs.db
+.DS_Store
